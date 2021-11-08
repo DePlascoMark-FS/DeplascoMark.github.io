@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF8">
+        <title>Projectw1</title>
+
+<link rel="stylesheet" href="style.css"/>
+    </head>
+    <body>
+        <H1>The Guitar Database</H1>
+        <H1>Gibson Les Paul </H1>
+
+        <p><p>Gorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore 
+            magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+            Duis aute irure dolor in reprehenderit 
+            in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+             culpa qui officia deserunt mollit anim id est laborum.</p></p>
+        
+             <img src="DePlascoMark_Project1/Les paul.webp" alt="">
+        <p>Gibson Les Paul</p>
+
+        <h1>Guitar specifications</h1>
+        <ul>
+            <li>Guitar specifications</li>
+            <li>Guitar Specifications </li>
+            <li>Guitar Specifications </li>
+            <li>Guitar Specifications </li>
+        </ul>
+    </body>
+
+</html>
